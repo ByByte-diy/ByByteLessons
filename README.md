@@ -17,6 +17,6 @@ All lessons are designed to support accessible, open, and collaborative technica
 
 ## License
 
-Lesson materials are licensed under CC BY-SA 4.0 unless otherwise specified. More in file [`LICENSE`](LICENSE.md)
+Lesson materials are licensed under CC BY-SA 4.0 unless otherwise specified. More in file [`LICENSE`](LICENSE)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CC-BY-SA.svg/500px-CC-BY-SA.svg.png" width=80>
